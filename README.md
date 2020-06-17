@@ -1,2 +1,9 @@
 # AirBnb-PricePrediction-Project
-This project is from my first semester of my masters program in Roskilde university. It was part of a course called business intelligence and big data(BIBA). This project is done with three other class members and was about price prediction of housing, big data and ethical and legal issues.
+This project was from business intelligence and big data(BIBA) course in Roskilde university in my master's program and it was done with 
+collabration of my group members. 
+### Group members: 
+- Begoña Sustatxa, 
+- Frederik Thulstrup, 
+- Tomas Nemecek, 
+- Yohannes Kidane kifle
+
